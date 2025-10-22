@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  squid-proxy:
+    build: .
+    container_name: squid-proxy
+    ports:
+      - "3128:3128"
+    volumes:
+      - ./squid.conf:/etc/squid/squid.conf
+      - ./whitelist.txt:/etc/squid/whitelist.txt
+    restart: always
+    networks:
+      - test
+
+networks:
+  test:
+    driver: bridge
