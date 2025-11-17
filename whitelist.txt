@@ -5,6 +5,7 @@ alg.academy
 canva.com
 chatgpt.com
 civitai.green
+civitai.com
 git-scm.com
 github.com
 miro.com
@@ -40,6 +41,7 @@ rbxcdn.com
 mirostatic.com
 unity3d.com
 microsoft.com
+microsoftonline.com
 aka.ms
 azureedge.net
 wixstatic.com
@@ -61,3 +63,4 @@ ntservicepack.microsoft.com
 go.microsoft.com
 ddelivery.mp.microsoft.com
 windows.co
+windows.net
