@@ -1,5 +1,6 @@
 google.com
 google.es
+duckduckgo.com
 brave.com
 alg.academy
 canva.com
