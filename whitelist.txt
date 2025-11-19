@@ -5,6 +5,9 @@ brave.com
 alg.academy
 canva.com
 chatgpt.com
+deepseek.com
+artlist.io
+mage.space
 civitai.green
 civitai.com
 cloudfront.net
