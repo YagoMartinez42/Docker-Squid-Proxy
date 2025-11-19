@@ -6,6 +6,9 @@ canva.com
 chatgpt.com
 civitai.green
 civitai.com
+cloudfront.net
+cloudflare.net
+akamaized.net
 git-scm.com
 github.com
 miro.com
