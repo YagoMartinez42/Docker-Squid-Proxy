@@ -71,3 +71,5 @@ go.microsoft.com
 ddelivery.mp.microsoft.com
 windows.co
 windows.net
+adventofcode.com
+codingame.com
