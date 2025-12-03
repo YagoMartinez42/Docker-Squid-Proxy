@@ -17,7 +17,9 @@ mage.space
 civitai.green
 civitai.com
 miro.com
+photoroom.com
 openai.com
+fusionbrain.ai
 python.org
 pypi.org
 files.pythonhosted.org
